@@ -25,7 +25,7 @@ _Berikut merupakan ext shell yang sering digunakan oleh peretas:_
 > *Sama seperti PHP, Aspx shell tidak cukup rumit untuk dikembangkan dan dipelajari namun tidak seperti PHP Aspx fungsinya tidak responsive dan kadang tidak work saat digunakan.*
 
   - [Perl](#404)
-> *Perl shell juga memiliki penggemar tersendiri bagi orang yang menggiati hacking, contoh WEBSHELL PERL/TOOLS PERL yang sering digunakan ialah socket.perl, socket perl berfungsi untuk men-socket port pada IP Address website yang serupa.*
+> *Perl shell juga memiliki penggemar tersendiri bagi orang yang menggiati hacking, contoh WEBSHELL PERL/TOOLS PERL yang sering digunakan ialah socket.perl, socket perl berfungsi untuk men-socket port pada IP Address website yang serupa sehingga peretas dapat mendeface port yang dibuat oleh peretas tersebut.*
 
   - [HTML](#404)
   
