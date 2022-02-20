@@ -14,7 +14,8 @@ Macam² Webshell
 ===============
 _Backdoor/webshell kebanyakan dipakai oleh defacer untuk akses ilegal. Microsoft pernah menyebutkan 77 ribu serangan terhadap webshell._
 
-- [PHP Shell](#404)
+_Berikut merupakan ext shell yang sering digunakan oleh peretas:_
+  - [PHP Shell](#404)
 
   - [Asp](#404)
 
