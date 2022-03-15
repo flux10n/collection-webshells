@@ -27,4 +27,4 @@ _Berikut merupakan ext shell yang sering digunakan oleh peretas:_
 
   - [Perl](#404)
 
-Wkwk
+
