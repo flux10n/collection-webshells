@@ -1,20 +1,9 @@
-Webshell
-========
-_Fungsi webshell?_
 
-> _1). Menambah koleksi shell backdoor anda_
+### Macam² Webshell
 
-> _2). Buat kegiatan hacking_
+Backdoor/webshell umumnya dipakai oleh defacer untuk akses ilegal. Microsoft pernah menyebutkan 77 ribu serangan terhadap webshell.
 
-> _3). Ngehek web NASA atau buat TSO (tikung shell orang :v)_
-
-> _4). Dsb..._
-
-Macam² Webshell
-===============
-_Backdoor/webshell umumnya dipakai oleh defacer untuk akses ilegal. Microsoft pernah menyebutkan 77 ribu serangan terhadap webshell._
-
-_Berikut merupakan ext shell yang sering digunakan oleh peretas:_
+Berikut merupakan ext shell yang sering digunakan oleh peretas:
 - [PHP](#404)
 - [Asp](#404)
 - [Aspx](#404)
@@ -23,4 +12,9 @@ _Berikut merupakan ext shell yang sering digunakan oleh peretas:_
 - [Perl](#404)
 - [Dsb](?)
 
+### Fungsi webshell:
 
+Banyak sih kegunaannya antara lain
+<details><summary><b>Mengambil hak akses</b></summary>
+Website yang mengandung backdoor/webshell biasanya akan mudah dikendalikan. Tapi banyak juga peretas yang hanya ingin mengakses/nitip file saja.
+</details>
