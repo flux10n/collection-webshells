@@ -1,0 +1,1 @@
+- Shell yang awalnya ext .php dan saya convert menjadi .jpg.php
