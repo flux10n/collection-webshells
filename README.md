@@ -18,3 +18,6 @@ Banyak sih kegunaannya antara lain
 <details><summary><b>Mengambil hak akses</b></summary>
 Website yang mengandung backdoor/webshell biasanya akan mudah dikendalikan. Tapi banyak juga peretas yang hanya ingin mengakses/nitip file saja.
 </details>
+
+
+wkwkwkkwkkkkkqkqkqkqkkqkkqk
