@@ -18,4 +18,4 @@ Banyak sih kegunaannya antara lain
 Website yang mengandung backdoor/webshell biasanya akan mudah dikendalikan. Tapi banyak juga peretas yang hanya ingin mengakses/nitip file saja.
 </details>
 
-bhjhhhhhhhhhhhhhh
+
