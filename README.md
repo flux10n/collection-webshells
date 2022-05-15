@@ -1,4 +1,4 @@
-### Macam² Webshell wjjwjjwnmwmwkqkqqkqkqwk
+### Macam² Webshell 
 
 Backdoor/webshell umumnya dipakai oleh defacer untuk akses ilegal. Microsoft pernah menyebutkan 77 ribu serangan terhadap webshell.
 
